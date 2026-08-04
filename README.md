@@ -1,8 +1,6 @@
 ## Hi, i'm Rupa Dasari 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 I am beginning my journey as a DevOps Engineer with a strong passion for Cloud Computing, Automation, and Continuous Learning. I'm excited to explore new technologies, work on real-world projects, and enhance my technical skills through hands-on experience.
 - 🌱 I’m currently learning ...
