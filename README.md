@@ -6,7 +6,6 @@ I am beginning my journey as a DevOps Engineer with a strong passion for Cloud C
 
 
 - 🌱 I’m currently learning ...
-  
 Git & GitHub
 Linux
 Docker
