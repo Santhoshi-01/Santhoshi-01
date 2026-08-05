@@ -6,14 +6,14 @@ I am beginning my journey as a DevOps Engineer with a strong passion for Cloud C
 
 
 - 🌱 I’m currently learning ...
-Git & GitHub
-Linux
-Docker
-AWS
-CI/CD
-DevOps Concepts
+- Git & GitHub
+- Linux
+- Docker
+- AWS
+- CI/CD
+- DevOps Concepts
 
-- 🎯 My Goal: ... 
-My goal is to become a skilled DevOps Engineer by continuously learning new technologies and building practical experience. I am passionate about improving my skills and growing as a technology professional.
+- 🎯 My Goal: ...
+- My goal is to become a skilled DevOps Engineer by continuously learning new technologies and building practical experience. I am passionate about improving my skills and growing as a technology professional.
 
 Thank you for visiting my profile! 😊
